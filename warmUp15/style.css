@@ -1,0 +1,19 @@
+.body{
+    background-color: beige;
+}
+
+.list{
+    background-color: rgb(245, 171, 137);
+}
+
+ul{
+    box-sizing: border-box;
+    border: 2px black dotted;
+    border-radius: 12px;
+    margin: 20px;
+    padding: 20px;
+    list-style-type: square;
+}
+h1{
+    text-align: center;
+}
